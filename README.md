@@ -147,7 +147,7 @@
     <footer class="bg-primary text-white text-center pb-3">
       <p>Created with <i class="bi bi-bookmark-check"></i> by <a href="yosshttp" class="text-white fw-bold">Yayasan Darul Qorori</a></p>
     </footer>
-    <!-- soft Section end -->
+    <!-- soft Section end-->
 
     <!-- Optional JavaScript; choose one of the two! -->
 
